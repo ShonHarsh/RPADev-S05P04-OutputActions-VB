@@ -1,5 +1,5 @@
 ![](https://shonharsh.github.io/curriculum-vitae/images/banner-uipath.png)
-# //Project Pending - I am still updating all of the projects for the RPA Developer Foundation.  In doing so I am updating the existing C# Windows Legacy project while also rewriting them in both C# Windows and VB Windows.  I complete at least one project a day.
+
 # S05P04 Output Actions
 
 This project is my solution in **VB** to the **Output Actions** practice found in section 05 practice 04 of the UiPath - RPA Developer Foundation course.
@@ -29,7 +29,13 @@ Create a robot which finds the weather of a specific city using Google. The city
 ### Sample Output
 
 ```
-
+05/03/2024 15:59:28 => [Debug] Debug started for file: Main
+05/03/2024 15:59:28 => [Info] RPADev-S05P04-OutputActions-VB execution started
+05/03/2024 15:59:28 => [Info] RPADev-S05P04-OutputActions-VB.Main.Begin;
+05/03/2024 15:59:29 => [Debug] Audit: Using Web App. Browser: Edge URL: https://www.bing.com/
+05/03/2024 15:59:32 => [Info] RPADev-S05P04-OutputActions-VB.Main.OperationCompleted; Kijabe, Kenya weather
+05/03/2024 15:59:32 => [Info] RPADev-S05P04-OutputActions-VB.Main.End;
+05/03/2024 15:59:32 => [Info] RPADev-S05P04-OutputActions-VB execution ended in: 00:00:03
 ```
 
 ### Architecture Requirements
